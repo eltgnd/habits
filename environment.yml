@@ -1,0 +1,8 @@
+name: habits
+dependencies:
+- jupyterlab
+- plotly
+- matplotlib
+- seaborn
+- pandas
+- requests
