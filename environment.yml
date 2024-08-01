@@ -5,4 +5,5 @@ dependencies:
 - matplotlib
 - seaborn
 - pandas
+- numpy
 - requests
