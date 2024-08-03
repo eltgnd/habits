@@ -6,4 +6,3 @@ dependencies:
 - seaborn
 - pandas
 - numpy
-- requests
